@@ -6,6 +6,7 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <Text>git hub is a pain in the ass</Text>
+        <Text>another add</Text>
       </View>
     );
   }
