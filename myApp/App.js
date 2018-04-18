@@ -5,7 +5,7 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>101</Text>
+        <Text>102</Text>
         <Text>another add1</Text>
         <Text>another add2</Text>
       </View>
